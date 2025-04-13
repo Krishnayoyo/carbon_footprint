@@ -18,3 +18,8 @@ beautifulsoup4
 html5lib
 llama-index
 ollama
+faiss-cpu
+unstructured
+lxml
+tiktoken
+duckduckgo-search
