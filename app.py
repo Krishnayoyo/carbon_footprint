@@ -16,7 +16,7 @@ energyEff_onec = joblib.load('energyEff_onec.pkl')
 Sex_encoder = joblib.load('Sex_encoder.pkl')
 recycle_bin = joblib.load('recycle_bin.pkl')
 cook_bin = joblib.load('cook_bin.pkl')
-model = joblib.load('your_model.pkl')  # Replace with your model file
+model = joblib.load('xgboost_model_tuned.pkl')  # Replace with your model file
 
 def validate_inputs(inputs):
     # Transport validation
