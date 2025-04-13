@@ -5,4 +5,16 @@ scikit-learn
 xgboost
 joblib
 matplotlib   
-seaborn      
+seaborn     
+xgboost
+chromadb
+langchain
+langchain-community
+sentence-transformers
+torch
+transformers
+requests
+beautifulsoup4
+html5lib
+llama-index
+ollama
